@@ -1,4 +1,5 @@
 def roll_call_dwarves(dwarves)
+  i=0 
   dwarves=["Doc","Dopey","Bashful","Grumpy"]
   #counter = 0
 #array = [1,2,3,4,5]
@@ -6,7 +7,7 @@ def roll_call_dwarves(dwarves)
 #while array[counter] do
   #puts array[counter]
  # counter += 1
-end
+#end
 end
 end 
 
